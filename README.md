@@ -275,7 +275,7 @@ because you stopped typing.
 - There is no offline caching; playback requires a connection.
 - Intended for personal use.
 
-
+#### Please consider giving a star if you like this project 
 
 <div align="center">
 
