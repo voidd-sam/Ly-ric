@@ -8,7 +8,7 @@
 ![Player](https://img.shields.io/badge/Player-mpv-629C43)
 ![Streams](https://img.shields.io/badge/Streams-yt--dlp-CC0000)
 
-> A terminal-based YouTube Music player with synced lyrics, radio-style autoplay,
+> A terminal-based Music player with synced lyrics, radio-style autoplay,
 > and vim-style controls.
 
 </div>
